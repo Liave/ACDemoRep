@@ -8,6 +8,7 @@ public class HelloGitApp {
 		System.out.println("Hello from git version 2");
 		System.out.println("Hello from git version 3");
 		System.out.println("Hello from git version 4");
+		System.out.println("Hello from git version 5");
 		System.out.println("Hello from git version 6");
 
 	}
