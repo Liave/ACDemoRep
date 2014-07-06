@@ -6,6 +6,7 @@ public class HelloGitApp {
 		// TODO Auto-generated method stub
 		System.out.println("Hello from git version 1");
 		System.out.println("Hello from git version 2");
+		System.out.println("Hello from git version 6");
 	}
 
 }
