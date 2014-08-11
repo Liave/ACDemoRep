@@ -10,4 +10,5 @@ public class Hello2 {
 	private String four_new;
 	private String five;
 	private String six;
+	private String seven;
 }
